@@ -6,21 +6,6 @@
 
 ---
 
-## 📋 Quick Navigation
-
-| Section | Purpose |
-|---------|---------|
-| [What This Is](#what-this-is) | Understand the scope and professional use cases |
-| [Complete Content Map](#complete-content-map) | Navigate all 60+ files and resources |
-| [Attack Framework](#attack-framework) | 6-phase kill chain documentation |
-| [Platform Guides](#platform-guides) | Service-specific exploitation guides |
-| [Tools & Automation](#tools--automation) | 16 working Python utilities |
-| [Attack Playbooks](#attack-playbooks) | Real-world compromise scenarios |
-| [Reference Materials](#reference-materials) | Cheat sheets, baselines, case studies |
-| [Usage Guidelines](#usage-guidelines) | How to use this resource effectively |
-
----
-
 ## 🎯 What This Is
 
 This is **professional-grade offensive security documentation** - not a tutorial, not an introduction, not theoretical content. Every technique is battle-tested. Every command executes. Every exploit works against real cloud environments.
