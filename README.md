@@ -40,6 +40,39 @@ This is **professional-grade offensive security documentation** - not a tutorial
 ✅ **Professional**: Human-written, zero AI artifacts, production-ready  
 ✅ **Defensive**: Hardening guides and detection strategies included  
 
+## 🚀 Quick Start
+
+```bash
+# Clone repository
+git clone [<repo-url>](https://github.com/DaniyalAhmed-kh/Cloud-Red-Team-Framework)
+cd cloud-security-pentesting
+
+# Read core documentation
+cat README.md                    # This file (overview)
+cat docs/METHODOLOGY.md          # Assessment framework
+cat CHEAT-SHEET.md              # Quick commands
+
+# Choose your platform
+cat guides/aws/reconnaissance.md     # AWS starting point
+cat guides/azure/reconnaissance.md   # Azure starting point
+cat guides/gcp/reconnaissance.md     # GCP starting point
+cat guides/kubernetes/reconnaissance.md  # Kubernetes starting point
+
+# Run tools
+python tools/scanners/cloud-enum.py --help
+python tools/exploitation/iam-privilege-escalation.py --help
+
+# Study attack chains
+cat playbooks/complete-attack-chains.md
+cat playbooks/case-studies.md
+
+# Reference while operating
+cat CHEAT-SHEET.md              # Command reference
+
+# Understand defense
+cat guides/hardening-baseline.md # Hardening strategies
+cat guides/detection-evasion-comprehensive.md  # Evasion techniques
+```
 ---
 
 ## 📊 Complete Content Map
@@ -808,57 +841,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines on:
 
 ---
 
-## 🚀 Quick Start
 
-```bash
-# Clone repository
-git clone <repo-url>
-cd cloud-security-pentesting
 
-# Read core documentation
-cat README.md                    # This file (overview)
-cat docs/METHODOLOGY.md          # Assessment framework
-cat CHEAT-SHEET.md              # Quick commands
 
-# Choose your platform
-cat guides/aws/reconnaissance.md     # AWS starting point
-cat guides/azure/reconnaissance.md   # Azure starting point
-cat guides/gcp/reconnaissance.md     # GCP starting point
-cat guides/kubernetes/reconnaissance.md  # Kubernetes starting point
 
-# Run tools
-python tools/scanners/cloud-enum.py --help
-python tools/exploitation/iam-privilege-escalation.py --help
-
-# Study attack chains
-cat playbooks/complete-attack-chains.md
-cat playbooks/case-studies.md
-
-# Reference while operating
-cat CHEAT-SHEET.md              # Command reference
-
-# Understand defense
-cat guides/hardening-baseline.md # Hardening strategies
-cat guides/detection-evasion-comprehensive.md  # Evasion techniques
-```
-
----
-
-## 📞 Support & Questions
-
-For questions about specific techniques:
-1. Reference the relevant platform guide
-2. Check CHEAT-SHEET.md for command examples
-3. Review case studies for real-world scenarios
-4. Consult tools/ directory for automation examples
-
----
-
-**Version**: 3.0 Codex Gigas Edition  
-**Status**: Production Ready  
-**Last Updated**: February 2026  
-**Maintenance**: Active  
-
----
-
-*The definitive cloud security pentesting resource - used by professional red teams, security engineers, and cloud architects worldwide.*
