@@ -51,9 +51,6 @@ python tools/exploitation/iam-privilege-escalation.py --help
 cat playbooks/complete-attack-chains.md
 cat playbooks/case-studies.md
 
-# Reference while operating
-cat CHEAT-SHEET.md              # Command reference
-
 # Understand defense
 cat guides/hardening-baseline.md # Hardening strategies
 cat guides/detection-evasion-comprehensive.md  # Evasion techniques
