@@ -1,4 +1,4 @@
-# Cloud Security Pentesting Codex Gigas
+# Cloud Security Pentesting Codex
 
 **The definitive, production-grade offensive security framework for cloud infrastructure. 60+ comprehensive guides, 16 automation tools, 300+ attack techniques, and real-world exploitation strategies across AWS, Azure, GCP, and Kubernetes.**
 
